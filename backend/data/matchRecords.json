@@ -1,0 +1,151 @@
+[
+  {
+    "id": "match-301",
+    "customerId": "cust-101",
+    "candidateId": "cust-f-103",
+    "matchmakerId": "mm-1",
+    "score": 86,
+    "scoreBreakdown": {
+      "age": {
+        "score": 95,
+        "max": 100
+      },
+      "location": {
+        "score": 90,
+        "max": 100
+      },
+      "education": {
+        "score": 85,
+        "max": 100
+      },
+      "lifestyle": {
+        "score": 80,
+        "max": 100
+      },
+      "family": {
+        "score": 80,
+        "max": 100
+      }
+    },
+    "explanations": [
+      "Shared city location and mutual lifestyle goals",
+      "Strong academic background from top-tier institution"
+    ],
+    "introductionMessage": "Hi, I would love to introduce you to an accomplished professional in Bangalore.",
+    "status": "Sent",
+    "sentAt": "2025-02-05T12:00:00.000Z",
+    "createdAt": "2025-02-05T12:00:00.000Z"
+  },
+  {
+    "id": "7d97a99b-0fd4-4e21-879d-1e883f73d2ca",
+    "customerId": "cust-102",
+    "candidateId": "cust-m-125",
+    "matchmakerId": "mm-1",
+    "score": 83,
+    "scoreBreakdown": {
+      "mutualAgePreference": {
+        "score": 1,
+        "weight": 15,
+        "available": true,
+        "reasons": [
+          "Candidate age 33 is within preferred range 30-36"
+        ],
+        "conflicts": []
+      },
+      "mutualLocationPreference": {
+        "score": 1,
+        "weight": 10,
+        "available": true,
+        "reasons": [
+          "Both in Gurgaon"
+        ],
+        "conflicts": []
+      },
+      "professionAndEducation": {
+        "score": 0.53,
+        "weight": 15,
+        "available": true,
+        "reasons": [
+          "MBA matches education preference"
+        ],
+        "conflicts": []
+      },
+      "childrenAndFamilyPlans": {
+        "score": 0.92,
+        "weight": 20,
+        "available": true,
+        "reasons": [
+          "Both are open to children"
+        ],
+        "conflicts": []
+      },
+      "relocationCompatibility": {
+        "score": 0.9,
+        "weight": 10,
+        "available": true,
+        "reasons": [
+          "Same city, relocation not needed"
+        ],
+        "conflicts": []
+      },
+      "sharedInterestsAndLanguages": {
+        "score": 0.43,
+        "weight": 10,
+        "available": true,
+        "reasons": [
+          "Common languages: english, hindi"
+        ],
+        "conflicts": []
+      },
+      "lifestyleAndFamilyValues": {
+        "score": 1,
+        "weight": 10,
+        "available": true,
+        "reasons": [
+          "Candidate's Liberal family values match preference",
+          "Religion preference match",
+          "Same dietary preference: Vegetarian",
+          "Candidate's marital status (Never Married) is acceptable"
+        ],
+        "conflicts": []
+      },
+      "genderSpecificPreferences": {
+        "score": 0.65,
+        "weight": 5,
+        "available": true,
+        "reasons": [
+          "Candidate is employed (Associate Partner)"
+        ],
+        "conflicts": []
+      },
+      "profileCompletenessAndVerification": {
+        "score": 1,
+        "weight": 5,
+        "available": true,
+        "reasons": [
+          "Verified profile"
+        ],
+        "conflicts": []
+      }
+    },
+    "explanations": [
+      "Candidate age 33 is within preferred range 30-36",
+      "Both in Gurgaon",
+      "MBA matches education preference",
+      "Both are open to children",
+      "Same city, relocation not needed",
+      "Common languages: english, hindi",
+      "Candidate's Liberal family values match preference",
+      "Religion preference match",
+      "Same dietary preference: Vegetarian",
+      "Candidate's marital status (Never Married) is acceptable",
+      "Candidate is employed (Associate Partner)",
+      "Verified profile"
+    ],
+    "introductionMessage": "Hi Ananya,\n\nI would like to introduce you to Sameer Subramanian, based in Gurgaon. They are a Associate Partner at Razorpay. We found great mutual synergy across lifestyle preferences, career ambition, and personal values.\n\nPlease let me know if you would like me to set up an introductory conversation.",
+    "status": "Sent",
+    "sentAt": "2026-10-19T12:23:32.254Z",
+    "createdAt": "2026-10-19T12:23:32.264Z",
+    "updatedAt": "2026-10-19T12:23:32.264Z"
+  }
+]

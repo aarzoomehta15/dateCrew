@@ -1,0 +1,22 @@
+[
+  {
+    "id": "mm-1",
+    "name": "Priya Sharma",
+    "email": "priya.sharma@datecrew.com",
+    "passwordHash": "$2a$10$x1.e5gv/VZqMSrMsQdiv6uj6DeZE8oeUgrjgxkkVSKgAvd2P7rZ3.",
+    "role": "matchmaker",
+    "phone": "+91 98765 43210",
+    "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=150",
+    "createdAt": "2025-01-10T09:00:00.000Z"
+  },
+  {
+    "id": "mm-2",
+    "name": "Arjun Kapoor",
+    "email": "arjun.kapoor@datecrew.com",
+    "passwordHash": "$2a$10$x1.e5gv/VZqMSrMsQdiv6uj6DeZE8oeUgrjgxkkVSKgAvd2P7rZ3.",
+    "role": "matchmaker",
+    "phone": "+91 98765 43211",
+    "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=150",
+    "createdAt": "2025-01-15T10:00:00.000Z"
+  }
+]

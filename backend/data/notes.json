@@ -1,0 +1,36 @@
+[
+  {
+    "id": "note-201",
+    "customerId": "cust-101",
+    "matchmakerId": "mm-1",
+    "content": "Initial discovery call completed. High intellectual energy and clear on wanting an ambitious partner.",
+    "type": "Meeting",
+    "createdAt": "2025-01-21T11:30:00.000Z"
+  },
+  {
+    "id": "note-202",
+    "customerId": "cust-102",
+    "matchmakerId": "mm-1",
+    "content": "Onboarding consultation. Values fitness, humor, and open debate.",
+    "type": "Meeting",
+    "createdAt": "2025-01-23T15:00:00.000Z"
+  },
+  {
+    "id": "d6199d84-3609-4218-9ac6-fe5535eb0f6c",
+    "customerId": "cust-101",
+    "authorId": "mm-1",
+    "content": "Discussed match criteria preferences update during follow-up call.",
+    "type": "Call",
+    "createdAt": "2026-10-19T11:53:14.711Z",
+    "updatedAt": "2026-10-19T11:53:14.711Z"
+  },
+  {
+    "id": "55745381-f707-45ec-b466-1a81253dc21a",
+    "customerId": "cust-101",
+    "authorId": "mm-1",
+    "content": "Discussed match criteria preferences update during follow-up call.",
+    "type": "Call",
+    "createdAt": "2026-10-19T12:04:52.544Z",
+    "updatedAt": "2026-10-19T12:04:52.544Z"
+  }
+]

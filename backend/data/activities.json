@@ -1,0 +1,182 @@
+[
+  {
+    "id": "act-401",
+    "customerId": "cust-101",
+    "actorId": "mm-1",
+    "action": "customer_created",
+    "description": "Profile created for Aarav Mehta",
+    "metadata": {},
+    "createdAt": "2025-01-20T11:00:00.000Z"
+  },
+  {
+    "id": "act-402",
+    "customerId": "cust-101",
+    "actorId": "mm-1",
+    "action": "status_updated",
+    "description": "Status updated to Ready for Matching",
+    "metadata": {
+      "previousStatus": "Profile Review",
+      "newStatus": "Ready for Matching"
+    },
+    "createdAt": "2025-02-01T10:00:00.000Z"
+  },
+  {
+    "id": "218d1ac9-0e57-46ae-b8d1-693c70c483cb",
+    "customerId": "cust-101",
+    "actorId": "mm-1",
+    "action": "status_changed",
+    "description": "Status changed from \"Profile Review\" to \"Profile Review\"",
+    "metadata": {
+      "previousStatus": "Profile Review",
+      "newStatus": "Profile Review"
+    },
+    "createdAt": "2026-10-19T11:53:14.657Z",
+    "updatedAt": "2026-10-19T11:53:14.657Z"
+  },
+  {
+    "id": "79eb02c5-d77d-47f6-ba75-acbc00bc258e",
+    "customerId": "cust-101",
+    "actorId": "mm-1",
+    "action": "status_changed",
+    "description": "Status changed from \"Profile Review\" to \"Ready for Matching\"",
+    "metadata": {
+      "previousStatus": "Profile Review",
+      "newStatus": "Ready for Matching"
+    },
+    "createdAt": "2026-10-19T11:53:14.689Z",
+    "updatedAt": "2026-10-19T11:53:14.689Z"
+  },
+  {
+    "id": "243b3691-6b55-4e9b-adf4-45f806b94d52",
+    "customerId": "cust-101",
+    "actorId": "mm-1",
+    "action": "note_added",
+    "description": "Added Call note",
+    "metadata": {
+      "noteId": "d6199d84-3609-4218-9ac6-fe5535eb0f6c",
+      "type": "Call"
+    },
+    "createdAt": "2026-10-19T11:53:14.713Z",
+    "updatedAt": "2026-10-19T11:53:14.713Z"
+  },
+  {
+    "id": "a9a16c32-d48e-43ef-96ab-2f477379634b",
+    "customerId": "cust-101",
+    "actorId": "mm-1",
+    "action": "match_sent",
+    "description": "Match introduction sent to Aarav for candidate Ananya Deshmukh",
+    "metadata": {
+      "matchRecordId": "aeac157a-22e7-4ab0-9b21-d7a92492b3bb",
+      "candidateId": "cust-102",
+      "score": 88
+    },
+    "createdAt": "2026-10-19T11:53:14.835Z",
+    "updatedAt": "2026-10-19T11:53:14.835Z"
+  },
+  {
+    "id": "2bf842c2-b720-4961-89a4-94f71b59b886",
+    "customerId": "cust-101",
+    "actorId": "mm-1",
+    "action": "status_changed",
+    "description": "Status changed from \"Matches Sent\" to \"Profile Review\"",
+    "metadata": {
+      "previousStatus": "Matches Sent",
+      "newStatus": "Profile Review"
+    },
+    "createdAt": "2026-10-19T12:04:52.482Z",
+    "updatedAt": "2026-10-19T12:04:52.482Z"
+  },
+  {
+    "id": "41f9fcce-dd8d-494b-83cb-ac956f2bfc6a",
+    "customerId": "cust-101",
+    "actorId": "mm-1",
+    "action": "status_changed",
+    "description": "Status changed from \"Profile Review\" to \"Ready for Matching\"",
+    "metadata": {
+      "previousStatus": "Profile Review",
+      "newStatus": "Ready for Matching"
+    },
+    "createdAt": "2026-10-19T12:04:52.517Z",
+    "updatedAt": "2026-10-19T12:04:52.517Z"
+  },
+  {
+    "id": "e4f29782-511a-4bfd-ad3e-5a8cac1d4f92",
+    "customerId": "cust-101",
+    "actorId": "mm-1",
+    "action": "note_added",
+    "description": "Added Call note",
+    "metadata": {
+      "noteId": "55745381-f707-45ec-b466-1a81253dc21a",
+      "type": "Call"
+    },
+    "createdAt": "2026-10-19T12:04:52.545Z",
+    "updatedAt": "2026-10-19T12:04:52.545Z"
+  },
+  {
+    "id": "994a45fd-b06b-431f-8dd5-9093eee88fb0",
+    "customerId": "cust-101",
+    "actorId": "mm-1",
+    "action": "match_sent",
+    "description": "Match introduction sent to Aarav for candidate Ananya Deshmukh",
+    "metadata": {
+      "matchRecordId": "0577e13d-beee-420c-9950-cc5f1b6aed96",
+      "candidateId": "cust-102",
+      "score": 88
+    },
+    "createdAt": "2026-10-19T12:04:52.651Z",
+    "updatedAt": "2026-10-19T12:04:52.651Z"
+  },
+  {
+    "id": "d6abe101-16b6-4906-8cd6-0a07ab13cefe",
+    "customerId": "cust-102",
+    "actorId": "mm-1",
+    "action": "match_sent",
+    "description": "Match introduction sent to Ananya for candidate Sameer Subramanian",
+    "metadata": {
+      "matchRecordId": "7d97a99b-0fd4-4e21-879d-1e883f73d2ca",
+      "candidateId": "cust-m-125",
+      "score": 83
+    },
+    "createdAt": "2026-10-19T12:23:32.290Z",
+    "updatedAt": "2026-10-19T12:23:32.290Z"
+  },
+  {
+    "id": "b5013ee1-b230-4cf5-a79d-8accba052af7",
+    "customerId": "cust-102",
+    "actorId": "mm-1",
+    "action": "status_changed",
+    "description": "Status changed from \"Matches Sent\" to \"On Hold\"",
+    "metadata": {
+      "previousStatus": "Matches Sent",
+      "newStatus": "On Hold"
+    },
+    "createdAt": "2026-10-19T12:26:57.471Z",
+    "updatedAt": "2026-10-19T12:26:57.471Z"
+  },
+  {
+    "id": "42cda651-a08d-4745-8962-6d0cd27829e3",
+    "customerId": "cust-102",
+    "actorId": "mm-1",
+    "action": "status_changed",
+    "description": "Status changed from \"On Hold\" to \"In Progress\"",
+    "metadata": {
+      "previousStatus": "On Hold",
+      "newStatus": "In Progress"
+    },
+    "createdAt": "2026-10-19T12:27:02.814Z",
+    "updatedAt": "2026-10-19T12:27:02.814Z"
+  },
+  {
+    "id": "70b3a315-775f-414b-8539-33c7beb522d9",
+    "customerId": "cust-102",
+    "actorId": "mm-1",
+    "action": "status_changed",
+    "description": "Status changed from \"In Progress\" to \"Closed\"",
+    "metadata": {
+      "previousStatus": "In Progress",
+      "newStatus": "Closed"
+    },
+    "createdAt": "2026-10-19T12:27:05.278Z",
+    "updatedAt": "2026-10-19T12:27:05.278Z"
+  }
+]
